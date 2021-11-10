@@ -70,6 +70,10 @@ body {
   margin-left: 15px;
 }
 
+.sidebar-info-block-soft {
+  display: none;
+}
+
 .tech-skills-text {
   color: #d8dadd;
 }
